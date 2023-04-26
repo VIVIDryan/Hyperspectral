@@ -1,0 +1,6 @@
+(1523, 4, 48, 48)
+(1523,)
+dim1: sampels
+dim2: color
+dim3: Y
+dim4: X
